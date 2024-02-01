@@ -1,0 +1,50 @@
+.header {
+    text-align: center;
+    background-color: lightcoral;
+    color: antiquewhite;
+}
+
+#home ul {
+    list-style: none;
+    padding: 10px;
+    background-color: #fdc6c6;
+}
+
+#home ul li {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.images ul img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
+
+
+
+.opening_hours {
+    border-collapse: collapse;
+}
+
+.opening_hours,
+.opening_hours th,
+.opening_hours td {
+    border: 1px solid #000000;
+}
+
+.opening_hours th,
+.opening_hours td {
+    padding: 8px;
+    text-align: left;
+}
+
+.footer {
+    background-color: #9687b0;
+    color: aliceblue;
+    padding: 10px;
+
+}
